@@ -13,3 +13,19 @@ cseB--Attendence:
 ------------------------------------------------------------------------------------
 EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY
 --------------------------------------------------------------------------------------
+
+
+cseC--Attendence:
+
+name: Anitha
+regd: 19k61a05d9
+Attendence: 91%
+
+name: Deepak
+regd: 19k61a05f0
+Attendence: 95%
+
+name: Deepika
+regd: 19k61a05e6
+Attendence: 98%
+
