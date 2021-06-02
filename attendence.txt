@@ -1,4 +1,5 @@
-cseA--Attendence
+cseA--Attendence:
+
 name: Deekshitha
 regd: 19k61a0513
 Attendence: 95%
@@ -6,3 +7,9 @@ Attendence: 95%
 name: Amani
 regd: 19k61a0542
 Attendence: 96%
+
+
+cseB--Attendence:
+------------------------------------------------------------------------------------
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY
+--------------------------------------------------------------------------------------
